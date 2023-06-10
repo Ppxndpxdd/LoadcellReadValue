@@ -1,7 +1,7 @@
 #include "HX711.h"
 
-float calibration_factor =3032.00; //need new value
-#define zero_factor 8296081 //need new value
+float calibration_factor =47338.00; //need new value
+#define zero_factor 853483 //need new value
 #define DOUT  23
 #define CLK   22
 #define DEC_POINT  2
