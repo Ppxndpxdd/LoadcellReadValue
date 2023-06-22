@@ -4,7 +4,7 @@ float calibration_factor =47338.00; //need new value
 #define zero_factor 853483 //need new value
 #define DOUT  23
 #define CLK   22
-#define DEC_POINT  2
+#define DEC_POINT  3
 
 float offset=0;
 float get_units_kg();
